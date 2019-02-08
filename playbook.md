@@ -2,6 +2,13 @@
 
 ## Purpose
 
+
+This is a test to check out the usefulness of integrating with HoundCI.  
+This text has some style violations such as multiple lines under a heading, 
+trailing spaces, and a bare URL: [CLICK HERE] (https://dxw.com)
+
+
+
 For most of dxw's life, we've been small enough that it's been easy for everyone
 to know what's going on and how to get things done, just by listening to what's
 going on in the office. The team is now big enough that we need a reference for
