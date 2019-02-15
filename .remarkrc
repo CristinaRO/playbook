@@ -4,7 +4,6 @@
     ["lint-maximum-line-length", false],
     ["lint-list-item-spacing", false],
     ["lint-unordered-list-marker-style", false],
-    ["lint-heading-increment", true],
-    ["remark-lint-no-trailing-spaces", true]
+    ["lint-heading-increment", true]
   ]
 }
